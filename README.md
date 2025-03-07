@@ -7,9 +7,9 @@ This repository focuses on building and evaluating machine learning models for v
 
 | Dataset                  | Problem Type           | Models Used                           | Key Features from EDA |
 |--------------------------|-----------------------|--------------------------------------|-----------------------|
-| **Titanic Survival**     | Classification (Survival Prediction) | Logistic Regression, Random Forest, XGBoost | Pclass, Age, Sex, Fare, Embarked |
-| **World Happiness**      | Regression (Happiness Score Prediction) | Linear Regression, Random Forest, XGBoost | GDP per Capita, Social Support, Life Expectancy |
-| **Hotel Booking**        | Classification (Cancellation Prediction) | Logistic Regression, Decision Trees, XGBoost | Lead Time, Deposit Type, Customer Type |
+| [**Titanic Survival**](https://github.com/navya99g/Predictive_Analysis_Models/tree/main/Titanic%20Analysis)  | Classification (Survival Prediction) | Logistic Regression, Random Forest, XGBoost | Pclass, Age, Sex, Fare, Embarked |
+| [**World Happiness**](https://github.com/navya99g/Predictive_Analysis_Models/tree/main/World%20Happines%20Report)    | Regression (Happiness Score Prediction) | Linear Regression, Random Forest, XGBoost | GDP per Capita, Social Support, Life Expectancy |
+| [**Hotel Booking**](https://github.com/navya99g/Predictive_Analysis_Models/blob/main/Hotel%20Booking%20Cancellation/README.md)      | Classification (Cancellation Prediction) | Logistic Regression, Decision Trees, XGBoost | Lead Time, Deposit Type, Customer Type |
 
 ---
 
@@ -44,7 +44,7 @@ This repository focuses on building and evaluating machine learning models for v
 ---
 
 ## 📌 Acknowledgments
-- Data Sources: [Kaggle](https://www.kaggle.com) 
+- Data Sources: **Kaggle**
 - Inspired by real-world applications of ML in business, policy, and competition settings.
 
 
