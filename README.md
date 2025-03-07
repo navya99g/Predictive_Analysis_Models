@@ -1,7 +1,7 @@
 # 🔍 Predictive Analysis & Modeling 🚀
 
 ## 📌 Introduction  
-This repository focuses on building and evaluating machine learning models for various datasets, utilizing insights from **Exploratory Data Analysis (EDA)**. The goal is to develop predictive models that can accurately forecast outcomes based on key features identified in EDA.  
+This repository focuses on building and evaluating machine learning models for various datasets, utilizing insights from [**Exploratory Data Analysis (EDA)**](https://github.com/navya99g/Exploration_Data_Analysis/tree/main). The goal is to develop predictive models that can accurately forecast outcomes based on key features identified in EDA.  
 
 ## 📊 Datasets and Modeling Approach  
 
@@ -16,7 +16,6 @@ This repository focuses on building and evaluating machine learning models for v
 ## 📌 Methodology  
 1. **Data Preprocessing:**  
    - Handle missing values, encode categorical variables, and scale numerical features.  
-
 2. **Feature Engineering:**  
    - Select features based on **EDA insights** (e.g., correlation heatmaps, statistical tests).  
 
@@ -40,4 +39,12 @@ This repository focuses on building and evaluating machine learning models for v
 ## 🔥 Next Steps  
 - **Feature Engineering**: Use domain-specific knowledge to create better features.  
 - **Deep Learning Models**: Experiment with neural networks for more complex datasets.  
-- **Automated ML Pipelines**: Deploy models using APIs or cloud services.  
+- **Automated ML Pipelines**: Deploy models using APIs or cloud services.
+
+---
+
+## 📌 Acknowledgments
+- Data Sources: [Kaggle](https://www.kaggle.com) 
+- Inspired by real-world applications of ML in business, policy, and competition settings.
+
+
